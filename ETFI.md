@@ -125,6 +125,8 @@ Notes:
 ## Active Flows
 
 - Product: Lab Plasticware
+- - Mental Zone: BLUE
+
 - Origin: India
 - Buyer: Diagnostic Labs
 - Flow: Manufacturer → Exporter → Importer → Lab
