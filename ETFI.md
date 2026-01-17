@@ -129,6 +129,12 @@ Notes:
 - Buyer: Diagnostic Labs
 - Flow: Manufacturer → Exporter → Importer → Lab
 - Status: OBSERVE
+- Product: Gloves (Nitrile)
+- Mental Zone: BLUE
+- Origin: India
+- Buyer: Diagnostic Labs / Hospitals
+- Why noted: Daily replacement, low regret
+- Status: OBSERVE
 
 - Product:
 - Origin:
