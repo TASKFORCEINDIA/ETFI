@@ -9,6 +9,11 @@ Rule: Observe flows. Insert self. Avoid friction.
 - Flow: Manufacturer → Exporter → Importer → Lab
 - Status: TEST
 
+- Product:
+- Origin:
+- Buyer:
+- Flow:
+- Status: TEST
 
 
 ## Rejected Flows
