@@ -7,7 +7,7 @@ Rule: Observe flows. Insert self. Avoid friction.
 - Origin: India
 - Buyer: Diagnostic Labs
 - Flow: Manufacturer → Exporter → Importer → Lab
-- Status: TEST
+- Status: OBSERVE
 
 - Product:
 - Origin:
