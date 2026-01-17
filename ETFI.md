@@ -3,7 +3,12 @@
 Rule: Observe flows. Insert self. Avoid friction.
 
 ## Active Flows
-- None yet
+- Product:
+- Origin:
+- Buyer:
+- Flow:
+- Status: TEST
+
 
 ## Rejected Flows
 - None yet
