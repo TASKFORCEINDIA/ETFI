@@ -46,3 +46,19 @@
 | B-08 | Lab Wipes | Cleanrooms | Daily | Low | Low | Brand irrelevant |
 | B-09 | Face Masks (3-ply) | Hospitals | Daily | Low | Low | Bulk only |
 | B-10 | Shoe Covers | Labs | Daily | Low | Low | Simple logistics |
+
+
+### 🔵 BLUE — Standard Demand (SDD)
+
+Purpose:
+Products that move without persuasion.
+Demand exists before you arrive.
+
+| Product | Buyer Trigger | Repeat Rate | Payment Behavior | Notes |
+|------|--------------|------------|------------------|------|
+| Gloves (Nitrile) | Daily operations | Very High | Fast | Always needed |
+| Sample Containers | Testing volume | High | Fast | Replacement driven |
+| Syringes | Patient load | Very High | Fast | Commodity |
+| IV Sets | Admissions | High | Medium | Packaging critical |
+| Face Masks | Protocol | Very High | Fast | Bulk orders |
+| Shoe Covers | Hygiene SOP | High | Fast | Simple logistics |
