@@ -30,3 +30,19 @@
 | BL-A | Daily Lab Core | Gloves, Masks, Alcohol Swabs, Cotton, Waste Bags | Labs / Clinics |
 | BL-B | Sample Collection Kit | Sample Containers, Vacutainers, Gloves, Swabs | Labs |
 | BL-C | Lab Bench Essentials | Test Tubes, Centrifuge Tubes, Slides, Filter Paper, Wipes | Labs |
+
+
+### 🔵 BLUE — Standard Products (Low Regret)
+
+| Code | Product | Buyer Type | Usage Cycle | Margin | Risk | Notes |
+|-----|--------|------------|-------------|--------|------|------|
+| B-01 | Lab Plasticware (Pipette Tips) | Diagnostic Labs | Daily | Low | Low | Commodity, repeat |
+| B-02 | Sample Containers | Labs / Hospitals | Daily | Low | Low | Replacement driven |
+| B-03 | Nitrile Gloves | Labs / Hospitals | Daily | Low | Low | Size-based SKUs |
+| B-04 | Latex Gloves | Clinics | Daily | Low | Low | Price sensitive |
+| B-05 | Syringes (Disposable) | Hospitals | Daily | Low | Low | Volume game |
+| B-06 | IV Sets | Hospitals | Daily | Low | Low | Packaging matters |
+| B-07 | Blood Collection Tubes | Diagnostic Labs | Daily | Low | Low | Color-coded |
+| B-08 | Lab Wipes | Cleanrooms | Daily | Low | Low | Brand irrelevant |
+| B-09 | Face Masks (3-ply) | Hospitals | Daily | Low | Low | Bulk only |
+| B-10 | Shoe Covers | Labs | Daily | Low | Low | Simple logistics |
