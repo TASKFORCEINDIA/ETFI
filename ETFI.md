@@ -62,3 +62,24 @@ Demand exists before you arrive.
 | IV Sets | Admissions | High | Medium | Packaging critical |
 | Face Masks | Protocol | Very High | Fast | Bulk orders |
 | Shoe Covers | Hygiene SOP | High | Fast | Simple logistics |
+
+
+
+### 🔵 BLUE — ADD-ON PRODUCTS (Attach & Upsell)
+
+Purpose:
+Low-risk items that attach to BLUE orders.
+Sold only WITH main products. No standalone selling.
+
+| Add Code | Add-On Product | Attaches With | Buyer Type | Frequency | Risk | Notes |
+|--------|----------------|---------------|------------|-----------|------|------|
+| BA-01 | Alcohol Swabs | Syringes, IV Sets | Hospitals | Daily | Low | Easy attach |
+| BA-02 | Cotton Rolls / Balls | Sample Collection | Labs | Daily | Low | Cheap filler |
+| BA-03 | Biohazard Bags | Sample Containers | Labs | Daily | Low | Compliance driven |
+| BA-04 | Sample Labels | Test Tubes | Labs | Weekly | Low | Workflow item |
+| BA-05 | Zip Lock Bags | Lab Kits | Labs | Weekly | Low | Packaging |
+| BA-06 | Marker Pens | Lab Benches | Labs | Weekly | Low | Utility |
+| BA-07 | PPE Aprons | Gloves, Masks | Hospitals | Daily | Low | SOP driven |
+| BA-08 | Head Caps | Infection Control | Hospitals | Daily | Low | Volume play |
+| BA-09 | Shoe Covers | Cleanrooms | Labs | Daily | Low | Auto-repeat |
+| BA-10 | Tissue Paper | General Supplies | Clinics | Daily | Low | Commodity |
