@@ -1,40 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Active Flows - ETFI</title>
 
-<!-- A-01 -->
-<div class="order">
-  <h2>A-01 · Psyllium Husk (Live)</h2>
-  <div class="meta">Category: Agri Inputs · Status: Active Orders · Risk: Low</div>
-  <div class="addons">
-    <b>Current Add-Ons</b>
-    Psyllium Powder
-  </div>
-</div>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #ecfdf5;
+      padding: 20px;
+      color: #111;
+    }
 
-<!-- A-02 -->
-<div class="order">
-  <h2>A-02 · Lemongrass Oil (Live)</h2>
-  <div class="meta">Category: Essential Oils · Status: Repeat Buyer · Risk: Low</div>
-  <div class="addons">
-    <b>Current Add-Ons</b>
-    Citronella Oil
-  </div>
-</div>
+    a.back {
+      display: inline-block;
+      margin-bottom: 16px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #16a34a;
+    }
 
-<!-- A-03 -->
-<div class="order">
-  <h2>A-03 · Glycerine USP (Live)</h2>
-  <div class="meta">Category: Industrial Chemicals · Status: Continuous · Risk: Low</div>
-  <div class="addons">
-    <b>Current Add-Ons</b>
-    Sorbitol
-  </div>
-</div>
+    h1 { margin-bottom: 6px; }
+    .subtitle { color: #555; margin-bottom: 20px; }
 
-<!-- A-04 -->
-<div class="order">
-  <h2>A-04 · Curcumin Extract (Live)</h2>
-  <div class="meta">Category: Botanical Extracts · Status: Negotiation · Risk: Medium</div>
-  <div class="addons">
-    <b>Current Add-Ons</b>
-    Piperine
+    .order {
+      background: #fff;
+      border-radius: 14px;
+      padding: 16px;
+      margin-bottom: 18px;
+      border-left: 6px solid #22c55e;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    }
+
+    .order h2 { margin: 0 0 6px; font-size: 18px; }
+    .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
+
+    .addons {
+      background: #ecfdf5;
+      border-radius: 10px;
+      padding: 10px;
+      font-size: 14px;
+    }
+
+    .addons b { display: block; margin-bottom: 4px; }
+  </style>
+</head>
+
+<body>
+  <a class="back" href="index.html">← Back to Zones</a>
+
+  <h1>📊 ACTIVE FLOWS</h1>
+  <div class="subtitle">Live · Ongoing · Focus Items</div>
+
+  <div class="order">
+    <h2>A-01 · Psyllium Husk (Live)</h2>
+    <div class="meta">Agri Inputs · Active Orders · Risk: Low</div>
+    <div class="addons"><b>Current Add-Ons</b> Psyllium Powder</div>
   </div>
-</div>
+
+  <div class="order">
+    <h2>A-02 · Lemongrass Oil (Live)</h2>
+    <div class="meta">Essential Oils · Repeat Buyer · Risk: Low</div>
+    <div class="addons"><b>Current Add-Ons</b> Citronella Oil</div>
+  </div>
+
+  <div class="order">
+    <h2>A-03 · Glycerine USP (Live)</h2>
+    <div class="meta">Industrial Chemicals · Continuous · Risk: Low</div>
+    <div class="addons"><b>Current Add-Ons</b> Sorbitol</div>
+  </div>
+</body>
+</html>
